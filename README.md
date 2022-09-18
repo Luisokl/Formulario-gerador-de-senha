@@ -1,2 +1,2 @@
 # Formulario-gerador-de-senha
-Formulário com um gerador de senha 
+Esse projeto foi desenvolvido pelo professor Matheus Battisti, uma refêrencia na área,estou sempre acompanhando a sua comunidade, onde disponibiliza diversos cursos e projetos na prática. Hoje fizemos esse formulário que tem a opção de gerar uma senha para o usuário e ficou muito bacana, além de trabalhar bastante o CSS, utilizamos funções e eventos com o javaScript. 
